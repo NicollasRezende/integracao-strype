@@ -113,6 +113,4 @@ Este projeto de integração com a Stripe é um exemplo funcional de como config
 
 ## Licença
 
-Este projeto é livre para uso e modificação.
-
-```
+***Este projeto é livre para uso e modificação.***
