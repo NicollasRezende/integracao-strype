@@ -2,7 +2,6 @@
 
 Este projeto é uma integração simples de pagamento com a [Stripe](https://stripe.com/), usando HTML, CSS, JavaScript, Node e Express. Ele permite que os usuários façam um pagamento seguro através de uma interface de checkout.
 
-Aqui está a documentação em formato explicativo, sem o estilo de passo a passo, mas focada em descrever os aspectos e decisões do projeto.
 
 ---
 
